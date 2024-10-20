@@ -1,0 +1,7 @@
+The babylonian method is an effective way to calculate square roots
+The number you want to take the square root of is called the radicant
+
+Make a guess of it's square root and divide the radicant by the guess,
+take the average of the guess and the division.
+Divide the radicant by the average and take the average again.
+Continuing this method will go towards the radicant's square root.
