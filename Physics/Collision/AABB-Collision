@@ -1,4 +1,4 @@
 AABB stands for axis-aligned bounding boxes,
 Collision is based on if x and y axis overlap.
 For two rectangles with positions (x1,y1) and (x2, y2)
-They overlap if x1
+They overlap if x1 + width1 > x2 and x2 + width2 > x1 and y1 + height1 > y2 and y2 + height2 > y1
